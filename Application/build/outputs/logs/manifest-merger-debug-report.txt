@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ec1df8cd16621a5be53856e2fb984b03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/955d7a3710ee73f99a175864f5dbf025/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/31e6b86cb1672ba0b0a8a524776bf296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dc840c3f9ff927055cfe8257e4ed02a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7ab33fd5286d2bd747dd3934f99f0745/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/b0a12000483d51c22152509cc6db4cb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/390121651a676e891439c0769e44e0c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38b6aff702bc01058fcc7127f587dc39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dddce5d6943d9ba47dd4c6086b4afc43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/450d1dd382f9e6134e128bc6f8a4a865/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/87887d91be2fa3e2e79b3087306f140a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rajat/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/3d40f948cadeb8b5ac1ea8ba6eac8d12/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:24:5-37:19
+	android:label
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:24:18-44
+	android:theme
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.repeatingalarm.MainActivity
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:30:19-51
+	android:uiOptions
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:31:19-63
+	android:name
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ec1df8cd16621a5be53856e2fb984b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ec1df8cd16621a5be53856e2fb984b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/955d7a3710ee73f99a175864f5dbf025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/955d7a3710ee73f99a175864f5dbf025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/31e6b86cb1672ba0b0a8a524776bf296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/31e6b86cb1672ba0b0a8a524776bf296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dc840c3f9ff927055cfe8257e4ed02a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/dc840c3f9ff927055cfe8257e4ed02a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7ab33fd5286d2bd747dd3934f99f0745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/7ab33fd5286d2bd747dd3934f99f0745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/b0a12000483d51c22152509cc6db4cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/b0a12000483d51c22152509cc6db4cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/390121651a676e891439c0769e44e0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/390121651a676e891439c0769e44e0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38b6aff702bc01058fcc7127f587dc39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/38b6aff702bc01058fcc7127f587dc39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dddce5d6943d9ba47dd4c6086b4afc43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/dddce5d6943d9ba47dd4c6086b4afc43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/450d1dd382f9e6134e128bc6f8a4a865/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/450d1dd382f9e6134e128bc6f8a4a865/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/87887d91be2fa3e2e79b3087306f140a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/rajat/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/87887d91be2fa3e2e79b3087306f140a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rajat/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/3d40f948cadeb8b5ac1ea8ba6eac8d12/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rajat/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/3d40f948cadeb8b5ac1ea8ba6eac8d12/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/rajat/Desktop/android-RepeatingAlarm-master/Application/src/main/AndroidManifest.xml
